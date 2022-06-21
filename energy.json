@@ -1,0 +1,331 @@
+[{
+        "Category": "COAL",
+        "Year": 2012,
+        "Value": 0.43
+    },
+    {
+        "Category": "COAL",
+        "Year": 2013,
+        "Value": 0.396
+    },
+    {
+        "Category": "COAL",
+        "Year": 2014,
+        "Value": 0.318
+    },
+    {
+        "Category": "COAL",
+        "Year": 2015,
+        "Value": 0.253
+    },
+    {
+        "Category": "COAL",
+        "Year": 2016,
+        "Value": 0.096
+    },
+    {
+        "Category": "COAL",
+        "Year": 2017,
+        "Value": 0.07
+    },
+    {
+        "Category": "COAL",
+        "Year": 2018,
+        "Value": 0.055
+    },
+    {
+        "Category": "COAL",
+        "Year": 2019,
+        "Value": 0.0218
+    },
+    {
+        "Category": "COAL",
+        "Year": 2020,
+        "Value": 0.0172
+    },
+    {
+        "Category": "COAL",
+        "Year": 2021,
+        "Value": 0.018600000000000002
+    },
+    {
+        "Category": "COAL",
+        "Year": 2022,
+        "Value": 0.0166
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2012,
+        "Value": 0.0069999999999999993
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2013,
+        "Value": 0.012
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2014,
+        "Value": 0.025
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2015,
+        "Value": 0.038
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2016,
+        "Value": 0.049
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2017,
+        "Value": 0.05
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2018,
+        "Value": 0.06
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2019,
+        "Value": 0.0663
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2020,
+        "Value": 0.0766
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2021,
+        "Value": 0.077800000000000008
+    },
+    {
+        "Category": "BIOMASS",
+        "Year": 2022,
+        "Value": 0.0639
+    },
+    {
+        "Category": "WIND",
+        "Year": 2012,
+        "Value": 0.039
+    },
+    {
+        "Category": "WIND",
+        "Year": 2013,
+        "Value": 0.059000000000000004
+    },
+    {
+        "Category": "WIND",
+        "Year": 2014,
+        "Value": 0.07
+    },
+    {
+        "Category": "WIND",
+        "Year": 2015,
+        "Value": 0.08
+    },
+    {
+        "Category": "WIND",
+        "Year": 2016,
+        "Value": 0.076
+    },
+    {
+        "Category": "WIND",
+        "Year": 2017,
+        "Value": 0.11900000000000001
+    },
+    {
+        "Category": "WIND",
+        "Year": 2018,
+        "Value": 0.139
+    },
+    {
+        "Category": "WIND",
+        "Year": 2019,
+        "Value": 0.17079999999999998
+    },
+    {
+        "Category": "WIND",
+        "Year": 2020,
+        "Value": 0.21559999999999999
+    },
+    {
+        "Category": "WIND",
+        "Year": 2021,
+        "Value": 0.1834
+    },
+    {
+        "Category": "WIND",
+        "Year": 2022,
+        "Value": 0.22579999999999997
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2012,
+        "Value": 0.004
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2013,
+        "Value": 0.008
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2014,
+        "Value": 0.016
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2015,
+        "Value": 0.025
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2016,
+        "Value": 0.036000000000000004
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2017,
+        "Value": 0.036000000000000004
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2018,
+        "Value": 0.039
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2019,
+        "Value": 0.0408
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2020,
+        "Value": 0.044800000000000006
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2021,
+        "Value": 0.039599999999999996
+    },
+    {
+        "Category": "SOLAR",
+        "Year": 2022,
+        "Value": 0.0437
+    },
+    {
+        "Category": "GAS",
+        "Year": 2012,
+        "Value": 0.26
+    },
+    {
+        "Category": "GAS",
+        "Year": 2013,
+        "Value": 0.252
+    },
+    {
+        "Category": "GAS",
+        "Year": 2014,
+        "Value": 0.285
+    },
+    {
+        "Category": "GAS",
+        "Year": 2015,
+        "Value": 0.287
+    },
+    {
+        "Category": "GAS",
+        "Year": 2016,
+        "Value": 0.43700000000000006
+    },
+    {
+        "Category": "GAS",
+        "Year": 2017,
+        "Value": 0.415
+    },
+    {
+        "Category": "GAS",
+        "Year": 2018,
+        "Value": 0.406
+    },
+    {
+        "Category": "GAS",
+        "Year": 2019,
+        "Value": 0.4205
+    },
+    {
+        "Category": "GAS",
+        "Year": 2020,
+        "Value": 0.3736
+    },
+    {
+        "Category": "GAS",
+        "Year": 2021,
+        "Value": 0.3997
+    },
+    {
+        "Category": "GAS",
+        "Year": 2022,
+        "Value": 0.39990000000000003
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2012,
+        "Value": 0.207
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2013,
+        "Value": 0.20800000000000002
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2014,
+        "Value": 0.19699999999999998
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2015,
+        "Value": 0.22399999999999998
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2016,
+        "Value": 0.22949999999999998
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2017,
+        "Value": 0.2289
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2018,
+        "Value": 0.213
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2019,
+        "Value": 0.19440000000000002
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2020,
+        "Value": 0.1867
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2021,
+        "Value": 0.1623
+    },
+    {
+        "Category": "NUCLEAR",
+        "Year": 2022,
+        "Value": 0.174
+    }
+]
